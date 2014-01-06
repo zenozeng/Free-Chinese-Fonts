@@ -3,6 +3,8 @@
 一些免费中文字体的整理。如有错误，还望指正。
 欢迎提 issue 和 pull request。
 
+View it: http://zenozeng.github.io/Free-Chinese-Fonts
+
 字体名称 | 版权 | 授权 | 可否商用 | 可否嵌入 PDF | 备注 | 链接
 :--- | :--- | :--- | :--- | :--- | :--- | :---
 **黑体** | | | | | |
