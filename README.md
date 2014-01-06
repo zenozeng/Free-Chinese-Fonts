@@ -22,6 +22,7 @@ cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao |
 全字庫正宋體 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
 方正书宋 | 方正电子公司 | 方正字库2013年商业发布授权政策 | 可（须书面授权） | 未知 | | http://www.foundertype.com/index/release_info.html
 台湾教育部標準宋體 | （台湾）教育部 | 創用CC 「姓名標示-禁止改作3.0臺灣版」| 可（CC） | 未知 | | http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6
+香港參考宋體 | 華康科技香港有限公司 | 个人使用 | 否 | 未知 | [使用条款](http://glyph.iso10646hk.net/chinese/download_001.jsp) | http://glyph.iso10646hk.net/chinese/download_001.jsp
 **楷体** | | | | | |
 文鼎中楷繁 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 文鼎中楷簡 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
