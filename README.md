@@ -21,6 +21,7 @@ cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao |
 文鼎細上海宋繁 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 全字庫正宋體 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
 方正书宋 | 方正电子公司 | 方正字库2013年商业发布授权政策 | 可（须书面授权） | 未知 | | http://www.foundertype.com/index/release_info.html
+台湾教育部標準宋體 | （台湾）教育部 | 創用CC 「姓名標示-禁止改作3.0臺灣版」| 可（CC） | 未知 | | http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6
 **楷体** | | | | | |
 文鼎中楷繁 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 文鼎中楷簡 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
@@ -28,9 +29,12 @@ cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao |
 cwTeX Q Kai Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 AR PL UKai | 文鼎科技, Arne Götje and other contributors | 文鼎公众授权 | 否 | 可（非商用） | | http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/
 方正楷体 | 方正电子公司 | 方正字库2013年商业发布授权政策 | 可（须书面授权） | 未知 | | http://www.foundertype.com/index/release_info.html
+台湾教育部標準楷書 | （台湾）教育部 | 創用CC 「姓名標示-禁止改作3.0臺灣版」| 可（CC） | 未知 | | http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17004&Index=6
 **仿宋** | | | | | |
 cwTeX Q Fangsong Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 方正仿宋 | 方正电子公司 | 方正字库2013年商业发布授权政策 | 可（须书面授权） | 未知 | | http://www.foundertype.com/index/release_info.html
+**隶书** | | | | | |
+台湾教育部國字隸書 | （台湾）教育部 | 創用CC 「姓名標示-禁止改作3.0臺灣版」| 可（CC） | 未知 | | http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6
 **明体** | | | | | |
 文鼎ＰＬ明体U20-L | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/cn/news/2010/20100420.html) | http://www.arphic.com/cn/news/2010/20100420.html
 cwTeX Q Ming Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
