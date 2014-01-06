@@ -5,11 +5,14 @@
 
 View it: http://zenozeng.github.io/Free-Chinese-Fonts
 
+
+
 字体名称 | 版权 | 授权 | 可否商用 | 可否嵌入 PDF | 备注 | 链接
 :--- | :--- | :--- | :--- | :--- | :--- | :---
 **黑体** | | | | | |
 文泉驿微米黑 | [Google](http://www.google.com/intl/en/contact/) 和 [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy) | Apache2.0 or GPLv3 with font embedding exceptions | 可（GPL） | 可 | 无 | http://wenq.org/wqy2/index.cgi?MicroHei
 文泉驿正黑体 |  [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy) | GPL v2 with font embedding exception | 可（GPL） | 可 | 无 | http://wenq.org/wqy2/index.cgi?ZenHei
+cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 **宋体** | | | | | |
 文泉驿点阵宋体 | [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy) | GPL v2 with font embedding exception | 可（GPL） | 可 | 无 | http://wenq.org/wqy2/index.cgi?BitmapSong
 文鼎ＰＬ报宋2GBK | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/cn/news/2010/20100420.html) | http://www.arphic.com/cn/news/2010/20100420.html
@@ -20,8 +23,14 @@ View it: http://zenozeng.github.io/Free-Chinese-Fonts
 文鼎中楷繁 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 文鼎中楷簡 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 全字庫正楷體 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
+cwTeX Q Kai Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
+**仿宋** | | | | | |
+cwTeX Q Fangsong Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 **明体** | | | | | |
 文鼎ＰＬ明体U20-L | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/cn/news/2010/20100420.html) | http://www.arphic.com/cn/news/2010/20100420.html
+cwTeX Q Ming Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
+**圆体** | | | | | |
+cwTeX Q Yuan Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 **其他** | | | | | |
 柳体 | jhuangjiahua | GPL v2 with font embedding exception | 可（GPL） | 可 | 无 | http://www.linuxsir.org/bbs/thread244714.html
 全字庫说文解字 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do

@@ -5,17 +5,19 @@
         <style>
          body {
              font-size: 12px;
-             padding: 1em;
+             padding: 2em;
+             margin: 0;
              color: #555;
              white-space:nowrap;
              word-break:break-all;
              text-overflow:ellipsis;
+             line-height: 2em;
          }
          a {
              color: #333;
          }
          td, th {
-             padding: .5em;
+             padding-right: 1em;
          }
         </style>
         <style>
@@ -30,6 +32,9 @@
         <script>
          $.get('README.md', function(md) {
              $('#main').html(marked(md));
+             $('#main tr td:last-child a').each(function() {
+                 $(this).html('Link');
+             });
          });
         </script>
     </body>
