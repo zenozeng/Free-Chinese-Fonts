@@ -24,11 +24,13 @@ cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao |
 文鼎中楷簡 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 全字庫正楷體 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
 cwTeX Q Kai Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
+AR PL UKai | 文鼎科技, Arne Götje and other contributors | 文鼎公众授权 | 否 | 可（非商用） | | http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/
 **仿宋** | | | | | |
 cwTeX Q Fangsong Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 **明体** | | | | | |
 文鼎ＰＬ明体U20-L | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/cn/news/2010/20100420.html) | http://www.arphic.com/cn/news/2010/20100420.html
 cwTeX Q Ming Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
+AR PL UMing | 文鼎科技, Arne Götje and other contributors | 文鼎公众授权 | 否 | 可（非商用） | | http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/
 **圆体** | | | | | |
 cwTeX Q Yuan Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
 **其他** | | | | | |
@@ -37,6 +39,12 @@ cwTeX Q Yuan Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Lia
 
 
 ## 备注
+
+### 关于王汉宗自由字体
+
+2004年的时候和文鼎发生过版权纠纷，所以这里就不列出来了。
+
+### Linux 查看系统字体的命令
 
 ```
 fc-list :lang=zh
