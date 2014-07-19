@@ -10,7 +10,7 @@ View it on Github Pages: http://zenozeng.github.io/Free-Chinese-Fonts
 字体名称 | 版权 | 授权 | 可否商用 | 可否嵌入 PDF | 备注 | 链接
 :--- | :--- | :--- | :--- | :--- | :--- | :---
 **黑体** | | | | | |
-思源黑体 | Google 和 Adobe | Apache License 2.0 | 可 | 可 | Github: https://github.com/adobe-fonts/source-han-sans | https://sourceforge.net/projects/source-han-sans.adobe/files/
+思源黑体 | Google 和 Adobe | Apache License 2.0 | 可 | 可 | [Github Repo](https://github.com/adobe-fonts/source-han-sans) | https://sourceforge.net/projects/source-han-sans.adobe/files/
 文泉驿微米黑 | [Google](http://www.google.com/intl/en/contact/) 和 [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy) | Apache2.0 or GPLv3 with font embedding exceptions | 可（GPL） | 可 | 无 | http://wenq.org/wqy2/index.cgi?MicroHei
 文泉驿正黑体 |  [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy) | GPL v2 with font embedding exception | 可（GPL） | 可 | 无 | http://wenq.org/wqy2/index.cgi?ZenHei
 cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao | GPL v2 | 可（GPL）| 可（GPL）| [cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/) | https://code.google.com/p/cwtex-q-fonts/
