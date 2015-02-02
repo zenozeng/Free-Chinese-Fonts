@@ -23,6 +23,7 @@ cwTeX Q Hei Bold | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao |
 文鼎ＰＬ报宋2GBK | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/cn/news/2010/20100420.html) | http://www.arphic.com/cn/news/2010/20100420.html
 文鼎報宋簡 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
 文鼎細上海宋繁 | 文鼎科技 | 文鼎公众授权 | 否 | 可（非商用） | [授权书](http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1) | http://www.arphic.com/tw/service/support/support\_mac\_cont.asp?id=8&toppage=1
+文鼎PL新宋 | Firefly and Arphic Technology Co., Ltd. | 文鼎公众授权　| 否　| 可（非商用） | [Firefly 把『文鼎PL細上海宋』和『文鼎PL簡報宋』合併後，加上常用大小點陣字併合而来](http://wiki.debian.org.hk/w/Fonts#.E8.9E.A2.E7.81.AB.E9.A3.9B.E9.BB.9E.E9.99.A3.E5.AD.97.E5.9E.8B_.28FireFly_Bitmap_Font.29_.E5.8F.8A_.E6.96.87.E9.BC.8EPL.E6.96.B0.E5.AE.8B.28AR_PL_New_Sung.29_.28.E5.B7.B2.E4.BD.B5.E5.85.A5CJKUnifonts.29) | http://www.study-area.org/apt/firefly-font/
 全字庫正宋體 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
 方正书宋 | 方正电子公司 | 方正字库2013年商业发布授权政策 | 可（须书面授权） | 未知 | | http://www.foundertype.com/index/release_info.html
 台湾教育部標準宋體 | （台湾）教育部 | 創用CC 「姓名標示-禁止改作3.0臺灣版」| 可（CC） | 未知 | | http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6
