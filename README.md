@@ -76,6 +76,7 @@ cwTeX Q Yuan Medium | Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Lia
 全字庫说文解字 | 全字库 | Creative Commons" Attribution-NoDerivs 3.0 Taiwan"License | 可（CC）| 可（CC）| [授权](http://www.cns11643.gov.tw/AIDB/copyright.do) | http://www.cns11643.gov.tw/AIDB/copyright.do
 新蒂黑板报体 | 新蒂字体 | 新蒂字体A条款 | 否 | 未知 | | http://font.sentywed.com/condition%20and%20terms.htm
 新蒂赵孟頫体 | 新蒂字体 | 个人使用（详见 link） | 否 | 未知 | | http://www.sentyfont.com/sentyzhao.htm
+新蒂下午茶体 | 新蒂字体 | 非商业免费 | 否 | 未知 | | http://www.sentyfont.com/sentytea.htm
 
 
 ## 备注
