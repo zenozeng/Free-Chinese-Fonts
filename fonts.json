@@ -1,0 +1,299 @@
+[
+    {
+        "name": "思源黑体",
+        "copyright": "Google 和 Adobe",
+        "license": "SIL",
+        "commercialUse": "可",
+        "embedInPDF": "可",
+        "notes": "[Github Repo](https://github.com/adobe-fonts/source-han-sans)",
+        "link": "https://sourceforge.net/projects/source-han-sans.adobe/files/"
+    },
+    {
+        "name": "文泉驿微米黑",
+        "copyright": "[Google](http://www.google.com/intl/en/contact/) 和 [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)",
+        "license": "Apache2.0 or GPLv3 with font embedding exceptions",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "notes": "无",
+        "link": "http://wenq.org/wqy2/index.cgi?MicroHei"
+    },
+    {
+        "name": "文泉驿正黑体",
+        "copyright": "[文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)",
+        "license": "GPL v2 with font embedding exception",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "notes": "无",
+        "link": "http://wenq.org/wqy2/index.cgi?ZenHei"
+    },
+    {
+        "name": "cwTeX Q Hei Bold",
+        "copyright": "Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao",
+        "license": "GPL v2",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可（GPL）",
+        "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
+        "link": "https://code.google.com/p/cwtex-q-fonts/"
+    },
+    {
+        "name": "方正黑体",
+        "copyright": "方正电子公司",
+        "license": "方正字库2013年商业发布授权政策",
+        "commercialUse": "可（须书面授权）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.foundertype.com/index/release_info.html"
+    },
+    {
+        "name": "文泉驿点阵宋体",
+        "copyright": "[文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)",
+        "license": "GPL v2 with font embedding exception",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "notes": "无",
+        "link": "http://wenq.org/wqy2/index.cgi?BitmapSong"
+    },
+    {
+        "name": "文鼎ＰＬ报宋2GBK",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/cn/news/2010/20100420.html)",
+        "link": "http://www.arphic.com/cn/news/2010/20100420.html"
+    },
+    {
+        "name": "文鼎報宋簡",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+    },
+    {
+        "name": "文鼎細上海宋繁",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+    },
+    {
+        "name": "文鼎PL新宋",
+        "copyright": "Firefly and Arphic Technology Co., Ltd.",
+        "license": "文鼎公众授权　",
+        "commercialUse": "否　",
+        "embedInPDF": "可（非商用）",
+        "notes": "[Firefly 把『文鼎PL細上海宋』和『文鼎PL簡報宋』合併後，加上常用大小點陣字併合而来](http://wiki.debian.org.hk/w/Fonts#.E8.9E.A2.E7.81.AB.E9.A3.9B.E9.BB.9E.E9.99.A3.E5.AD.97.E5.9E.8B_.28FireFly_Bitmap_Font.29_.E5.8F.8A_.E6.96.87.E9.BC.8EPL.E6.96.B0.E5.AE.8B.28AR_PL_New_Sung.29_.28.E5.B7.B2.E4.BD.B5.E5.85.A5CJKUnifonts.29)",
+        "link": "http://www.study-area.org/apt/firefly-font/"
+    },
+    {
+        "name": "全字庫正宋體",
+        "copyright": "全字库",
+        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "可（CC）",
+        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
+    },
+    {
+        "name": "方正书宋",
+        "copyright": "方正电子公司",
+        "license": "方正字库2013年商业发布授权政策",
+        "commercialUse": "可（须书面授权）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.foundertype.com/index/release_info.html"
+    },
+    {
+        "name": "台湾教育部標準宋體",
+        "copyright": "（台湾）教育部",
+        "license": "創用CC 「姓名標示-禁止改作3.0臺灣版」",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6"
+    },
+    {
+        "name": "香港參考宋體",
+        "copyright": "華康科技香港有限公司",
+        "license": "个人使用",
+        "commercialUse": "否",
+        "embedInPDF": "未知",
+        "notes": "[使用条款](http://glyph.iso10646hk.net/chinese/download_001.jsp)",
+        "link": "http://glyph.iso10646hk.net/chinese/download_001.jsp"
+    },
+    {
+        "name": "文鼎中楷繁",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+    },
+    {
+        "name": "文鼎中楷簡",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+    },
+    {
+        "name": "全字庫正楷體",
+        "copyright": "全字库",
+        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "可（CC）",
+        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
+    },
+    {
+        "name": "cwTeX Q Kai Medium",
+        "copyright": "Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao",
+        "license": "GPL v2",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可（GPL）",
+        "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
+        "link": "https://code.google.com/p/cwtex-q-fonts/"
+    },
+    {
+        "name": "AR PL UKai",
+        "copyright": "文鼎科技, Arne Götje and other contributors",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "",
+        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/"
+    },
+    {
+        "name": "方正楷体",
+        "copyright": "方正电子公司",
+        "license": "方正字库2013年商业发布授权政策",
+        "commercialUse": "可（须书面授权）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.foundertype.com/index/release_info.html"
+    },
+    {
+        "name": "台湾教育部標準楷書",
+        "copyright": "（台湾）教育部",
+        "license": "創用CC 「姓名標示-禁止改作3.0臺灣版」",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17004&Index=6"
+    },
+    {
+        "name": "cwTeX Q Fangsong Medium",
+        "copyright": "Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao",
+        "license": "GPL v2",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可（GPL）",
+        "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
+        "link": "https://code.google.com/p/cwtex-q-fonts/"
+    },
+    {
+        "name": "方正仿宋",
+        "copyright": "方正电子公司",
+        "license": "方正字库2013年商业发布授权政策",
+        "commercialUse": "可（须书面授权）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.foundertype.com/index/release_info.html"
+    },
+    {
+        "name": "台湾教育部國字隸書",
+        "copyright": "（台湾）教育部",
+        "license": "創用CC 「姓名標示-禁止改作3.0臺灣版」",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6"
+    },
+    {
+        "name": "文鼎ＰＬ明体U20-L",
+        "copyright": "文鼎科技",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "[授权书](http://www.arphic.com/cn/news/2010/20100420.html)",
+        "link": "http://www.arphic.com/cn/news/2010/20100420.html"
+    },
+    {
+        "name": "cwTeX Q Ming Medium",
+        "copyright": "Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao",
+        "license": "GPL v2",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可（GPL）",
+        "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
+        "link": "https://code.google.com/p/cwtex-q-fonts/"
+    },
+    {
+        "name": "AR PL UMing",
+        "copyright": "文鼎科技, Arne Götje and other contributors",
+        "license": "文鼎公众授权",
+        "commercialUse": "否",
+        "embedInPDF": "可（非商用）",
+        "notes": "",
+        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/"
+    },
+    {
+        "name": "cwTeX Q Yuan Medium",
+        "copyright": "Tsong-Min Wu, Tsong-Huey Wu, Edward G.J. Lee, Chen-Pan Liao",
+        "license": "GPL v2",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可（GPL）",
+        "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
+        "link": "https://code.google.com/p/cwtex-q-fonts/"
+    },
+    {
+        "name": "柳体",
+        "copyright": "jhuangjiahua",
+        "license": "GPL v2 with font embedding exception",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "notes": "无",
+        "link": "http://www.linuxsir.org/bbs/thread244714.html"
+    },
+    {
+        "name": "全字庫说文解字",
+        "copyright": "全字库",
+        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "commercialUse": "可（CC）",
+        "embedInPDF": "可（CC）",
+        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
+    },
+    {
+        "name": "新蒂黑板报体",
+        "copyright": "新蒂字体",
+        "license": "新蒂字体A条款",
+        "commercialUse": "否",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://font.sentywed.com/condition%20and%20terms.htm"
+    },
+    {
+        "name": "新蒂赵孟頫体",
+        "copyright": "新蒂字体",
+        "license": "个人使用（详见 link）",
+        "commercialUse": "否",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.sentyfont.com/sentyzhao.htm"
+    },
+    {
+        "name": "新蒂下午茶体",
+        "copyright": "新蒂字体",
+        "license": "非商业免费",
+        "commercialUse": "否",
+        "embedInPDF": "未知",
+        "notes": "",
+        "link": "http://www.sentyfont.com/sentytea.htm"
+    }
+]
