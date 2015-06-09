@@ -9,22 +9,11 @@ body {
     line-height: 2em;
 }
 
-.yes {
-    color: green;
-}
-
-.no {
-    color: red;
-}
-
-.unknown {
-    color: orange;
-}
-
-.fa-file-pdf-o {
+.fa-info-circle {
+    color: #aaa;
     padding-left: .5em;
+    cursor: pointer;
 }
-
 
 a {
     color: #333;
@@ -40,7 +29,7 @@ th {
     max-width: 600px;
     padding: .5em 0;
     border: none;
-    font-size: 2rem;
+    font-size: 1.5rem;
     outline: none;
     color: #555;
     border-bottom: 2px solid #ccc;
@@ -67,24 +56,14 @@ th {
 
 .font {
     margin-bottom: 1rem;
+    font-size: .8rem;
 }
 
 .name {
-    font-size: 1.2rem;
+    font-size: 1rem;
     line-height: 2rem;
     color: #555;
 }
-
-.license {
-    color: #999;
-    background: #eee;
-    border-radius: 5px;
-    margin-left: 1em;
-    padding: 0 .5em;
-    display: inline-block;
-    font-size: .7em;
-}
-
 
 #forkongithub a {
     background: #000;
