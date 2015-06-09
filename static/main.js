@@ -2,7 +2,7 @@ $(function() {
 
     var tags = {
         "Family": ["黑体", "宋体", "楷体", "仿宋", "其他"],
-        "License": ["GPL", "SIL", "文鼎公众授权", "Creative Commons", "Apache"],
+        "License": ["GPL", "SIL", "文鼎公众授权", "CC", "Apache"],
         "Tag": ["可商用", "可嵌入PDF"]
     };
 
@@ -57,6 +57,9 @@ $(function() {
                 "仿宋": [/仿宋/, /Fangsong/],
                 "其他": [/.*/]
             };
+            if (!Array.isArray(font.license)) {
+                font.license = [font.license];
+            }
             if (!font.family) {
                 Object.keys(family).some(function(f) {
                     if (family[f].some(function(reg) {
@@ -71,11 +74,19 @@ $(function() {
             font.index = [
                 font.name,
                 'Family:'+font.family,
-                'License:' + font.license,
+                font.license.toString().indexOf('Creative Commons') > -1 ? "License:CC" : "",
                 font.commercialUse.indexOf('可') > -1 ? "可商用" : "",
                 font.embedInPDF.indexOf('可') > -1 ? "可嵌入PDF" : "",
                 font.notes
-            ].join(' ');
+            ];
+            tags.License.forEach(function(license) {
+                font.license.forEach(function(font_license) {
+                    if (font_license.indexOf(license) > -1) {
+                        font.index.push('License:' + license);
+                    }
+                });
+            });
+            font.index = font.index.join(' ');
             return font;
         });
 
@@ -88,7 +99,7 @@ $(function() {
             var $name = $('<td class="name"><a href="' + f.link + '">' + f.name + '</a></td>');
             $name.append('<i class="fa fa-info-circle" title="Copyright: ' + f.copyright + '"></i>');
             $font.append($name);
-            $font.append('<td class="license">' + f.license + '</td>');
+            $font.append('<td class="license">' + f.license.join(' or ') + '</td>');
             var html = [f.commercialUse, f.embedInPDF, $(marked(f.notes)).html() || '无'].map(function(td) {
                 return '<td>' + td + '</td>';
             }).join('');
