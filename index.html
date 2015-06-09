@@ -2,40 +2,16 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <style>
-         body {
-             font-size: 12px;
-             padding: 2em;
-             margin: 0;
-             color: #555;
-             white-space:nowrap;
-             word-break:break-all;
-             text-overflow:ellipsis;
-             line-height: 2em;
-         }
-         a {
-             color: #333;
-         }
-         td, th {
-             padding-right: 1em;
-         }
-        </style>
-        <style>
-         #forkongithub a{background:#000;color:#fff;text-decoration:none;font-family:arial, sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#555;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:"";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#fff;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);box-shadow:0 0 8px rgba(0,0,0,0.8);}}
-        </style>
+        <link href="static/styles.css" rel="stylesheet">
+        <link href="bower_components/font-awesome/css/font-awesome.css" rel="stylesheet">
     </head>
     <body>
-        <span id="forkongithub"><a href="https://github.com/zenozeng/Free-Chinese-Fonts">Fork me on GitHub</a></span>
+        <span id="forkongithub">
+            <a href="https://github.com/zenozeng/Free-Chinese-Fonts">Fork me on GitHub</a>
+        </span>
+        <input type="text" id="filter" placeholder="Filter">
         <div id="main"></div>
         <script src="bower_components/jquery/dist/jquery.js"></script>
-        <script src="marked.js"></script>
-        <script>
-         $.get('README.md', function(md) {
-             $('#main').html(marked(md));
-             $('#main tr td:last-child a').each(function() {
-                 $(this).html('Link');
-             });
-         });
-        </script>
+        <script src="static/main.js"></script>
     </body>
 </html>

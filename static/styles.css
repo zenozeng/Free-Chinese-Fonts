@@ -1,0 +1,142 @@
+body {
+    font-size: 16px;
+    padding: 4em;
+    margin: 0;
+    color: #555;
+    white-space: nowrap;
+    word-break: break-all;
+    text-overflow: ellipsis;
+    line-height: 2em;
+}
+
+.yes {
+    color: green;
+}
+
+.no {
+    color: red;
+}
+
+.unknown {
+    color: orange;
+}
+
+.fa-file-pdf-o {
+    padding-left: .5em;
+}
+
+
+a {
+    color: #333;
+}
+
+td,
+th {
+    padding-right: 1em;
+}
+
+#filter {
+    width: 60%;
+    max-width: 600px;
+    padding: .5em 0;
+    border: none;
+    font-size: 2rem;
+    outline: none;
+    color: #555;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 2rem;
+}
+
+#tags {
+    background: #eee;
+    display: inline-block;
+    padding: 1em 2em;
+    margin-bottom: 2em;
+}
+
+#tags .key {
+    color: #333;
+    font-weight: bold;
+}
+
+#tags .tag {
+    padding: 0 .2em;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.font {
+    margin-bottom: 1rem;
+}
+
+.name {
+    font-size: 1.2rem;
+    line-height: 2rem;
+    color: #555;
+}
+
+.license {
+    color: #999;
+    background: #eee;
+    border-radius: 5px;
+    margin-left: 1em;
+    padding: 0 .5em;
+    display: inline-block;
+    font-size: .7em;
+}
+
+
+#forkongithub a {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px 40px;
+    font-size: 1rem;
+    line-height: 2rem;
+    position: relative;
+    transition: 0.5s;
+}
+
+#forkongithub a:hover {
+    background: #555;
+    color: #fff;
+}
+
+#forkongithub a::before,
+#forkongithub a::after {
+    content: "";
+    width: 100%;
+    display: block;
+    position: absolute;
+    top: 1px;
+    left: 0;
+    height: 1px;
+    background: #fff;
+}
+
+#forkongithub a::after {
+    bottom: 1px;
+    top: auto;
+}
+
+#forkongithub {
+    position: absolute;
+    display: block;
+    top: 0;
+    right: 0;
+    width: 200px;
+    overflow: hidden;
+    height: 200px;
+}
+#forkongithub a {
+    width: 200px;
+    position: absolute;
+    top: 60px;
+    right: -60px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
