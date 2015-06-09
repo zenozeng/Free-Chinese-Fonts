@@ -22,6 +22,7 @@ a {
 td,
 th {
     padding-right: 1em;
+    text-align: left;
 }
 
 #filter {
