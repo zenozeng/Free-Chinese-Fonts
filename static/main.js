@@ -40,9 +40,12 @@ $(function() {
         if (currentWords.indexOf(word) > -1) {
             currentWords = currentWords.replace(word, '');
         } else {
+            if (key != "Tag") {
+                currentWords = currentWords.replace(new RegExp(key + ':[^ ]*'), '');
+            }
             currentWords += " " + word;
         }
-        $('#filter').val(currentWords.replace(/^ /g, '').replace(/  /g, ' '));
+        $('#filter').val(currentWords.replace(/  /g, ' ').replace(/^ /g, ''));
         $('#filter').trigger('input');
     });
 
