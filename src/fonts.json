@@ -457,5 +457,23 @@
         "license": "GPLv2",
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）"
+    },
+    {
+        "name": "站酷高端黑",
+        "copyright": "站酷网",
+        "link": "http://www.zcool.com.cn/special/gaoduanhei/",
+        "license": "免费商用",
+        "notes": "“汉字百人舞”计划，由字体设计师胡晓波、刘兵克发起，在站酷网征集100位字体设计师共同完成一套字库创作，供所有人永久免费下载。",
+        "commercialUse": "可",
+        "embedInPDF": "Unknown"
+    },
+    {
+        "name": "站酷快乐体",
+        "copyright": "站酷网",
+        "link": "http://www.zcool.com.cn/special/happyfont/",
+        "license": "免费商用",
+        "notes": "本字库是由字体设计师刘兵克组织其字体设计学员进行的字体设计活动，由刘兵克提供字形框架和设计规范，由100多位学员朋友按照各自字体内容设计出基本字形，然后再由刘兵克字体设计工作室成员杨康和吴少杰进行设计修改和调整。",
+        "commercialUse": "可",
+        "embedInPDF": "Unknown"
     }
 ]
