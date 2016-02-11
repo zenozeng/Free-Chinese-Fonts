@@ -11,7 +11,7 @@
     {
         "name": "文泉驿微米黑",
         "copyright": "[Google](http://www.google.com/intl/en/contact/) 和 [文泉驿信任委员会](http://wenq.org/wqy2/index.cgi?CopyrightPolicy)",
-        "license": ["Apache2.0", "GPLv3 with font embedding exceptions"],
+        "license": ["Apache 2.0", "GPLv3 with font embedding exceptions"],
         "commercialUse": "可（GPL）",
         "embedInPDF": "可",
         "notes": "无",
@@ -475,5 +475,14 @@
         "notes": "本字库是由字体设计师刘兵克组织其字体设计学员进行的字体设计活动，由刘兵克提供字形框架和设计规范，由100多位学员朋友按照各自字体内容设计出基本字形，然后再由刘兵克字体设计工作室成员杨康和吴少杰进行设计修改和调整。",
         "commercialUse": "可",
         "embedInPDF": "Unknown"
+    },
+    {
+        "name": "Droid Sans Fallback",
+        "copyright": "The Android Open Source Project",
+        "link": "https://github.com/android/platform_frameworks_base/tree/master/data/fonts",
+        "license": "Apache 2.0",
+        "notes": "无",
+        "commercialUse": "可",
+        "embedInPDF": "可"
     }
 ]
