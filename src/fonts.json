@@ -6,7 +6,8 @@
         "commercialUse": "可",
         "embedInPDF": "可",
         "notes": "[GitHub Repo](https://github.com/adobe-fonts/source-han-sans)",
-        "link": "https://github.com/adobe-fonts/source-han-sans/releases"
+        "link": "https://github.com/adobe-fonts/source-han-sans/releases",
+        "family": "Hei"
     },
     {
         "name": "文泉驿微米黑",
@@ -15,7 +16,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可",
         "notes": "无",
-        "link": "http://wenq.org/wqy2/index.cgi?MicroHei"
+        "link": "http://wenq.org/wqy2/index.cgi?MicroHei",
+        "family": "Hei"
     },
     {
         "name": "文泉驿正黑体",
@@ -24,7 +26,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可",
         "notes": "无",
-        "link": "http://wenq.org/wqy2/index.cgi?ZenHei"
+        "link": "http://wenq.org/wqy2/index.cgi?ZenHei",
+        "family": "Hei"
     },
     {
         "name": "cwTeX Q Hei Bold",
@@ -33,7 +36,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）",
         "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
-        "link": "https://code.google.com/p/cwtex-q-fonts/"
+        "link": "https://code.google.com/p/cwtex-q-fonts/",
+        "family": "Hei"
     },
     {
         "name": "方正黑体",
@@ -42,7 +46,8 @@
         "commercialUse": "可（须书面授权）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.foundertype.com/index/release_info.html"
+        "link": "http://www.foundertype.com/index/release_info.html",
+        "family": "Hei"
     },
     {
         "name": "文泉驿点阵宋体",
@@ -51,7 +56,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可",
         "notes": "无",
-        "link": "http://wenq.org/wqy2/index.cgi?BitmapSong"
+        "link": "http://wenq.org/wqy2/index.cgi?BitmapSong",
+        "family": "Song"
     },
     {
         "name": "文鼎ＰＬ报宋2GBK",
@@ -60,7 +66,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/cn/news/2010/20100420.html)",
-        "link": "http://www.arphic.com/cn/news/2010/20100420.html"
+        "link": "http://www.arphic.com/cn/news/2010/20100420.html",
+        "family": "Song"
     },
     {
         "name": "文鼎報宋簡",
@@ -69,7 +76,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
-        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1",
+        "family": "Song"
     },
     {
         "name": "文鼎細上海宋繁",
@@ -78,7 +86,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
-        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1",
+        "family": "Song"
     },
     {
         "name": "文鼎PL新宋",
@@ -87,7 +96,8 @@
         "commercialUse": "否　",
         "embedInPDF": "可（非商用）",
         "notes": "[Firefly 把『文鼎PL細上海宋』和『文鼎PL簡報宋』合併後，加上常用大小點陣字併合而来](http://wiki.debian.org.hk/w/Fonts#.E8.9E.A2.E7.81.AB.E9.A3.9B.E9.BB.9E.E9.99.A3.E5.AD.97.E5.9E.8B_.28FireFly_Bitmap_Font.29_.E5.8F.8A_.E6.96.87.E9.BC.8EPL.E6.96.B0.E5.AE.8B.28AR_PL_New_Sung.29_.28.E5.B7.B2.E4.BD.B5.E5.85.A5CJKUnifonts.29)",
-        "link": "http://www.study-area.org/apt/firefly-font/"
+        "link": "http://www.study-area.org/apt/firefly-font/",
+        "family": "Song"
     },
     {
         "name": "全字庫正宋體",
@@ -96,7 +106,8 @@
         "commercialUse": "可（CC）",
         "embedInPDF": "可（CC）",
         "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
-        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
+        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do",
+        "family": "Song"
     },
     {
         "name": "方正书宋",
@@ -105,7 +116,8 @@
         "commercialUse": "可（须书面授权）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.foundertype.com/index/release_info.html"
+        "link": "http://www.foundertype.com/index/release_info.html",
+        "family": "Song"
     },
     {
         "name": "台湾教育部標準宋體",
@@ -114,7 +126,8 @@
         "commercialUse": "可（CC）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6"
+        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17009&Index=6",
+        "family": "Song"
     },
     {
         "name": "香港參考宋體",
@@ -123,7 +136,8 @@
         "commercialUse": "否",
         "embedInPDF": "未知",
         "notes": "[使用条款](http://glyph.iso10646hk.net/chinese/download_001.jsp)",
-        "link": "http://glyph.iso10646hk.net/chinese/download_001.jsp"
+        "link": "http://glyph.iso10646hk.net/chinese/download_001.jsp",
+        "family": "Song"
     },
     {
         "name": "文鼎中楷繁",
@@ -132,7 +146,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
-        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1",
+        "family": "Kai"
     },
     {
         "name": "文鼎中楷簡",
@@ -141,7 +156,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1)",
-        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1"
+        "link": "http://www.arphic.com/tw/service/support/support\\_mac\\_cont.asp?id=8&toppage=1",
+        "family": "Kai"
     },
     {
         "name": "全字庫正楷體",
@@ -150,7 +166,8 @@
         "commercialUse": "可（CC）",
         "embedInPDF": "可（CC）",
         "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
-        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
+        "link": "http://www.cns11643.gov.tw/AIDB/copyright.do",
+        "family": "Kai"
     },
     {
         "name": "cwTeX Q Kai Medium",
@@ -159,7 +176,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）",
         "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
-        "link": "https://code.google.com/p/cwtex-q-fonts/"
+        "link": "https://code.google.com/p/cwtex-q-fonts/",
+        "family": "Kai"
     },
     {
         "name": "AR PL UKai",
@@ -168,7 +186,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "",
-        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/"
+        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/",
+        "family": "Kai"
     },
     {
         "name": "方正楷体",
@@ -177,7 +196,8 @@
         "commercialUse": "可（须书面授权）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.foundertype.com/index/release_info.html"
+        "link": "http://www.foundertype.com/index/release_info.html",
+        "family": "Kai"
     },
     {
         "name": "台湾教育部標準楷書",
@@ -186,7 +206,8 @@
         "commercialUse": "可（CC）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17004&Index=6"
+        "link": "http://www.edu.tw/pages/detail.aspx?Node=3691&Page=17004&Index=6",
+        "family": "Kai"
     },
     {
         "name": "cwTeX Q Fangsong Medium",
@@ -195,7 +216,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）",
         "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
-        "link": "https://code.google.com/p/cwtex-q-fonts/"
+        "link": "https://code.google.com/p/cwtex-q-fonts/",
+        "family": "FangSong"
     },
     {
         "name": "方正仿宋",
@@ -204,7 +226,8 @@
         "commercialUse": "可（须书面授权）",
         "embedInPDF": "未知",
         "notes": "",
-        "link": "http://www.foundertype.com/index/release_info.html"
+        "link": "http://www.foundertype.com/index/release_info.html",
+        "family": "FangSong"
     },
     {
         "name": "台湾教育部國字隸書",
@@ -222,7 +245,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "[授权书](http://www.arphic.com/cn/news/2010/20100420.html)",
-        "link": "http://www.arphic.com/cn/news/2010/20100420.html"
+        "link": "http://www.arphic.com/cn/news/2010/20100420.html",
+        "family": "Song"
     },
     {
         "name": "cwTeX Q Ming Medium",
@@ -231,7 +255,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）",
         "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
-        "link": "https://code.google.com/p/cwtex-q-fonts/"
+        "link": "https://code.google.com/p/cwtex-q-fonts/",
+        "family": "Song"
     },
     {
         "name": "AR PL UMing",
@@ -240,7 +265,8 @@
         "commercialUse": "否",
         "embedInPDF": "可（非商用）",
         "notes": "",
-        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/"
+        "link": "http://www.freedesktop.org/wiki/Software/CJKUnifonts/Download/",
+        "family": "Song"
     },
     {
         "name": "cwTeX Q Yuan Medium",
@@ -249,7 +275,8 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可（GPL）",
         "notes": "[cwtex-q-fonts](https://code.google.com/p/cwtex-q-fonts/)",
-        "link": "https://code.google.com/p/cwtex-q-fonts/"
+        "link": "https://code.google.com/p/cwtex-q-fonts/",
+        "family": "Hei"
     },
     {
         "name": "柳体",
@@ -312,7 +339,8 @@
         "link": "https://code.google.com/p/wangfonts/",
         "license": "GPLv2",
         "commercialUse": "可（GPL）",
-        "embedInPDF": "可（GPL）"
+        "embedInPDF": "可（GPL）",
+        "family": "Kai"
     },
     {
         "name": "王漢宗粗鋼體標準",
@@ -483,6 +511,7 @@
         "license": "Apache 2.0",
         "notes": "无",
         "commercialUse": "可",
-        "embedInPDF": "可"
+        "embedInPDF": "可",
+        "family": "Hei"
     }
 ]
