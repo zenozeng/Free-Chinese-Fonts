@@ -71,6 +71,24 @@ $(function() {
 
     var fonts = $.get('src/fonts.json', function(fonts) {
 
+        // Sort by pinyin order, alphanumeric first
+        fonts.sort(function(a, b) {
+            if (/^[a-zA-Z0-9]/.test(a.name)) {
+                if (/^[a-zA-Z0-9]/.test(b.name)) {
+                    return a.name.localeCompare(b.name, 'en');
+                }
+                else {
+                    return -1;
+                }
+            }
+            else if (/^[a-zA-Z0-9]/.test(b.name)) {
+                return 1;
+            }
+            else {
+                return a.name.localeCompare(b.name, 'zh-u-co-pinyin');
+            }
+        });
+
         fonts = fonts.map(function(font) {
             // "Family": ["黑体", "宋体", "楷体", "仿宋", "其他"],
             var family = {
