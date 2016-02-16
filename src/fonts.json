@@ -513,5 +513,45 @@
         "commercialUse": "可",
         "embedInPDF": "可",
         "family": "Hei"
+    },
+    {
+        "name": "FandolFang",
+        "copyright": "Fandol team",
+        "link": "http://ctan.org/pkg/fandol",
+        "license": "GPLv3 with font exception",
+        "notes": "CID ranges: 940-7702, 7717-8895, 29064-30220",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "family": "FangSong"
+    },
+    {
+        "name": "FandolHei",
+        "copyright": "Fandol team",
+        "link": "http://ctan.org/pkg/fandol",
+        "license": "GPLv3 with font exception",
+        "notes": "CID ranges: 940-7702, 7717-8895, 29064-30220",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "family": "Hei"
+    },
+    {
+        "name": "FandolKai",
+        "copyright": "Fandol team",
+        "link": "http://ctan.org/pkg/fandol",
+        "license": "GPLv3 with font exception",
+        "notes": "CID ranges: 940-7702, 7717-8895, 29064-30220",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "family": "Kai"
+    },
+    {
+        "name": "FandolSong",
+        "copyright": "Fandol team",
+        "link": "http://ctan.org/pkg/fandol",
+        "license": "GPLv3 with font exception",
+        "notes": "CID ranges: 940-7702, 7717-8895, 29064-30220",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可",
+        "family": "Song"
     }
 ]
