@@ -3,7 +3,7 @@
 一些免费中文字体的整理。如有错误，还望指正。
 欢迎提 issue 和 pull request。
 
-View it on Github Pages: http://zenozeng.github.io/Free-Chinese-Fonts
+View it on GitHub Pages: http://zenozeng.github.io/Free-Chinese-Fonts
 
 ## 备注
 
