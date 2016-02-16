@@ -70,28 +70,15 @@ $(function() {
         });
 
         fonts = fonts.map(function(font) {
-            // "Family": ["黑体", "宋体", "楷体", "仿宋", "其他"],
-            var family = {
-                "黑体": [/黑体/, /黑$/, /Hei/],
-                "宋体": [/[^仿]宋/, /Ming/, /明体/, /Ming/, /[^g]song/],
-                "楷体": [/楷/, /Kai/],
-                "仿宋": [/仿宋/, /Fangsong/],
-                "其他": [/.*/]
-            };
             if (!Array.isArray(font.license)) {
                 font.license = [font.license];
             }
-            if (!font.family) {
-                Object.keys(family).some(function(f) {
-                    if (family[f].some(function(reg) {
-                        return reg.test(font.name);
-                    })) {
-                        font.family = f;
-                        return true;
-                    }
-                    return false;
-                });
-            }
+            font.family = {
+                "Hei": "黑体",
+                "Song": "宋体",
+                "Kai": "楷体",
+                "FangSong": "仿宋"
+            }[font.family] || "其他";
             font.index = [
                 font.name,
                 'Family:'+font.family,
