@@ -553,5 +553,33 @@
         "commercialUse": "可（GPL）",
         "embedInPDF": "可",
         "family": "Song"
+    },
+    {
+        "name": "刻石錄明體",
+        "copyright": "刻石錄",
+        "link": "http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E6%98%8E%E9%AB%94",
+        "license": "IPA Open Font License v1.0",
+        "notes": "由日本 IPA 字型修改而来",
+        "commercialUse": "IPA",
+        "embedInPDF": "IPA",
+        "family": "Song"
+    },
+    {
+        "name": "刻石錄顏體",
+        "copyright": "刻石錄",
+        "link": "http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%A1%8F%E9%AB%94",
+        "license": "GPL 2.0",
+        "notes": "由王漢宗教授的字体修改而来",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可"
+    },
+    {
+        "name": "刻石錄鋼筆鶴體",
+        "copyright": "刻石錄",
+        "link": "http://founder.acgvlyric.org/iu/doku.php/%E9%80%A0%E5%AD%97:%E9%96%8B%E6%BA%90%E5%AD%97%E5%9E%8B_i.%E9%8B%BC%E7%AD%86%E9%B6%B4%E9%AB%94",
+        "license": "GPL 2.0",
+        "notes": "由王漢宗教授的字体修改而来",
+        "commercialUse": "可（GPL）",
+        "embedInPDF": "可"
     }
 ]
