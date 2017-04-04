@@ -545,6 +545,16 @@
         "family": "Kai"
     },
     {
+        "name": "Source Han Serif",
+        "copyright": "Adobe",
+        "link": "http://adobe.ly/SourceHanSerif",
+        "license": "SIL Open Font License 1.1",
+        "notes": "",
+        "commercialUse": "可",
+        "embedInPDF": "可",
+        "family": "Song"
+    },
+    {
         "name": "FandolSong",
         "copyright": "Fandol team",
         "link": "http://ctan.org/pkg/fandol",
