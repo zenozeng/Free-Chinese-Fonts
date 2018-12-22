@@ -102,10 +102,10 @@
     {
         "name": "全字庫正宋體",
         "copyright": "全字库",
-        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "license": "OGDL-TW-1.0 compatible with CC-BY-4.0",
         "commercialUse": "可（CC）",
         "embedInPDF": "可（CC）",
-        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "notes": "[授权](http://changelogs.ubuntu.com/changelogs/pool/multiverse/f/fonts-cns11643/fonts-cns11643_98.1+20150923-2/copyright)",
         "link": "http://www.cns11643.gov.tw/AIDB/copyright.do",
         "family": "Song"
     },
@@ -162,10 +162,10 @@
     {
         "name": "全字庫正楷體",
         "copyright": "全字库",
-        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "license": "OGDL-TW-1.0 compatible with CC-BY-4.0",
         "commercialUse": "可（CC）",
         "embedInPDF": "可（CC）",
-        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "notes": "[授权](http://changelogs.ubuntu.com/changelogs/pool/multiverse/f/fonts-cns11643/fonts-cns11643_98.1+20150923-2/copyright)",
         "link": "http://www.cns11643.gov.tw/AIDB/copyright.do",
         "family": "Kai"
     },
@@ -290,10 +290,10 @@
     {
         "name": "全字庫说文解字",
         "copyright": "全字库",
-        "license": "Creative Commons\" Attribution-NoDerivs 3.0 Taiwan\"License",
+        "license": "OGDL-TW-1.0 compatible with CC-BY-4.0",
         "commercialUse": "可（CC）",
         "embedInPDF": "可（CC）",
-        "notes": "[授权](http://www.cns11643.gov.tw/AIDB/copyright.do)",
+        "notes": "[授权](http://changelogs.ubuntu.com/changelogs/pool/multiverse/f/fonts-cns11643/fonts-cns11643_98.1+20150923-2/copyright)",
         "link": "http://www.cns11643.gov.tw/AIDB/copyright.do"
     },
     {
