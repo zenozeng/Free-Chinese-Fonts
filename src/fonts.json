@@ -591,5 +591,14 @@
         "notes": "由王漢宗教授的字体修改而来",
         "commercialUse": "可（GPL）",
         "embedInPDF": "可"
+    },
+    {
+        "name": "jf open 粉圓",
+        "copyright": "justfont",
+        "link": "https://justfont.com/huninn/",
+        "license": "SIL Open Font License 1.1",
+        "notes": "由 Motoya 公司为安卓系统开发的小杉丸圆体（Kosugi Maru）修改而来，欧文部分换成 Varela Round",
+        "commercialUse": "可",
+        "embedInPDF": "可"
     }
 ]
